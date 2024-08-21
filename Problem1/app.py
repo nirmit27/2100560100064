@@ -1,4 +1,4 @@
-""" Problem 1 : Average Calculator Microservice"""
+""" Problem 1 : Average Calculator Microservice """
 
 from flask import Flask, jsonify, request
 import requests
