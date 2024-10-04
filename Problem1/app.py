@@ -1,8 +1,9 @@
 """ Problem 1 : Average Calculator Microservice """
 
 import os
+
 import requests
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify
 
 app = Flask(__name__)
 
